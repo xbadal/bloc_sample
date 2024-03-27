@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const kcPrimaryColor = Color(0xFF006CB5);
+const kcAccentColor = Color(0xFF52D376);
+const kcLitePurpleColor = Color(0xFFBD00FF);
+const kcBottomBarColor = Color(0xFFFCF2FF);
+const kcWhiteColor = Color(0xFFFFFFFF);
+const kcBlackColor = Color(0xFF000000);
+const kcAppBarColor = Color(0xFFFFFFFF);
+const kcButtonColor = Color(0xFFF24E1E);
+Color kcOutlineButtonColor = const Color(0xFFF24E1E).withOpacity(0.2);
+const kcOrangeTextColor = Color(0xFFF24E1E);
+const kcTextFieldColor = Color(0xFFFDF3EF);
+const kcOffWhite = Color(0xFFF0F1F7);
+const kcCardBackgroundColor = Color(0xFFF8F8F8);
+const kcProductBackgroundColor = Color(0xFFF0F0F0);
+const kcProductDescriptionColor = Color(0xFF626262);
+const kcProductActualPriceColor = Color(0xFF747474);
+const kcTextGreyColor = Color(0xFF535353);
+const kcProductDescriptionGreyColor = Color(0xFF626262);
+const kcProductRedColor = Color(0xFFDD0000);
+const kcProductOfferRedColor = Color(0xFF20923F);
