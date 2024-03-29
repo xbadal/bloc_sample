@@ -1,2 +1,4 @@
-const product_type = 'product_type';
-const product_key = 'product_key';
+const themeTypeDark = 'dark';
+const themeTypeLight = 'light';
+const appLanguageEn = 'en';
+const appLanguagePt = 'pt';
