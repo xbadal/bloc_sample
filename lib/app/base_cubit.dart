@@ -35,6 +35,7 @@ class BaseCubit extends Cubit<BaseState> {
   }
 
   void changeTheme(String data) async {
+    emit(state.copyWith(defaultTheme: ''));
     emit(state.copyWith(defaultTheme: data));
     SharedPreferences prefs = await SharedPreferences.getInstance();
     await prefs.setString(kkAppThemeKey, data);
